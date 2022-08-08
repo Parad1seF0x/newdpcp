@@ -1,0 +1,16 @@
+{
+    "name": "piefo/cp.site",
+    "description": "ControlePanel",
+    "type": "project",
+    "license": "GL2PS",
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "rbdwllr/reallysimplejwt": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phppot\\": "",
+            "Phppot\\lib\\": "/lib"
+        }
+    }
+}
